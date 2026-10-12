@@ -11,4 +11,5 @@
 | 7   | Alkass Two | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo) | <img height="20" src="https://i.imgur.com/8w61kFX.png"/> | AlkassTwo.qa |
 | 8   | Alkass Three | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree) | <img height="20" src="https://i.imgur.com/d57BdFh.png"/> | AlkassThree.qa |
 | 9   | Alkass Four | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour) | <img height="20" src="https://i.imgur.com/iDL65Wu.png"/> | AlkassFour.qa |
-| 9   | Al Araby TV | [>](https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/YMqWEe4.png"/> | AlkassFour.qa |
+| 10   | Al Araby TV | [>](https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/YMqWEe4.png"/> | AlArabyTV.qa |
+| 11   | Al Araby 2 | [>](https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/d/d6/Alaraby2_logo_turquoise.svg/revision/latest?cb=20260612145652"/> | AlArabyTV2.qa |
